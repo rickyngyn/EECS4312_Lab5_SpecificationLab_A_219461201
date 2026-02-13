@@ -1,6 +1,6 @@
 ## TODO:
-## Student Name:
-## Student ID: 
+## Student Name: Ricky Nguyen
+## Student ID: 219461201
 
 # Meeting Slot Suggestion Lab Repository
 
